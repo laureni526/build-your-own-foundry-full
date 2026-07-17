@@ -119,9 +119,9 @@ Before you write your first voice, read
 [`worked-example-advocate.md`](worked-example-advocate.md) — one real,
 finished voice from the original Foundry, grounded in an actual
 pattern hunch and named stories. Notice that every line points at
-specific evidence. That's the standard. (The complete worked council —
-five voices, Weaver, and runner — lives in the
-[original Foundry repository](https://github.com/laureni526/foundry/tree/main/public/workshops/build-your-own-foundry/council-buildathon/lauren-council-example).)
+specific evidence. That's the standard. (It's one voice of a complete
+five-voice worked council; the shape you see here is identical for
+every voice, so one example is all you need.)
 
 **Installing in Claude Code:** each file here is the *body* of a
 skill. In your project folder create `.claude/skills/<voice-name>/`,

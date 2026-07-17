@@ -89,9 +89,9 @@ how you think — captured in a consistent, minimal structure:
 -   **Where else you've seen it** (even a hunch)
 
 Stories are not autobiography. They are evidence. The specificity is
-the value — "a client once surprised me" teaches nothing; "Akriti cut a
-24-hour monthly process to five minutes and only told me after she
-built it" teaches everything.
+the value — "a client once surprised me" teaches nothing; "our newest
+analyst cut a 24-hour monthly process to five minutes and only told me
+after she built it" teaches everything.
 
 ## 3. One Pattern Hunch
 
