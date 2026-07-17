@@ -81,6 +81,12 @@ the world works — and that's what earns its way up.
     over twenty years. If you attended the live session, these are
     your reference copies. If you didn't, they're your starting
     point — see below.
+-   **`expansions/`** — optional packs for when your Foundry is far
+    enough along to *use*: build an AI council grounded in your own
+    evidence, capture recurring deliverables as practice documents,
+    teach an AI your voice. None are required; each states its own
+    prerequisite. Open them when the spine of the path has given you
+    the material they need.
 
 ------------------------------------------------------------------------
 

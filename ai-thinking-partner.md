@@ -130,6 +130,12 @@ do not invent taglines for me, do not improve my phrasing, and do not
 suggest new phrases. If something appears only once, leave it out.
 ```
 
+*Once the Voice Miner has fed a real Language Page — phrases that have
+genuinely recurred — there's a next step available: turning that page
+into standing instructions so the AI drafts in your voice by default.
+That's its own discipline with its own guardrails; see
+[`expansions/teach-the-ai-your-voice.md`](expansions/teach-the-ai-your-voice.md).*
+
 # Stage 5 — The Constitution Stress-Tester
 
 ```
