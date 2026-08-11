@@ -1,13 +1,15 @@
-# The Solo Path — Growing Your Foundry After the Workshop
+# Growing Your Foundry
 
-*Build Your Own Foundry — self-paced continuation*
+*Build Your Own Foundry — The Solo Path*
 
-> You left the workshop with five small things: one question, a few
-> story cards, one hunch, an Open Questions page, and a weekly habit.
+> **Already built your first five pieces at an introduction session?**
+> One question, a few story cards, one hunch, an Open Questions page,
+> and a weekly habit — skip straight to Stage 1 below. Those weren't
+> the product. The habit was. This path is what the habit grows into.
 >
-> Those weren't the product. The habit was.
->
-> This path is what the habit grows into.
+> **Starting from scratch, with nothing built yet?** This path works
+> without a prior session too — read "Starting From Scratch" below
+> before Stage 1.
 
 ------------------------------------------------------------------------
 
@@ -90,9 +92,10 @@ the world works — and that's what earns its way up.
 
 ------------------------------------------------------------------------
 
-# If You Weren't in the Room
+# Starting From Scratch
 
-You can start this path without the live workshop. Before Stage 1:
+You can start this path without a prior introduction session. Before
+Stage 1:
 
 1.  Read `framework.md` — the Minimum Viable Foundry, about ten
     minutes.

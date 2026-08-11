@@ -83,12 +83,18 @@ Prompts if you're stuck:
 
 ------------------------------------------------------------------------
 
-# Part 2 — Pair Share Notes
+# Part 2 — Read It Back
 
-Your partner's job was to answer: *"What does this story reveal about
-how you think the world works?"*
+Reread Story Card 1 as if someone else wrote it. Ask the question a
+good listener would ask: *"What does this story reveal about how you
+think the world works?"*
 
-**What my partner heard in my story that I hadn't put into words:**
+If you'd rather an outside ear, paste the story into any AI assistant
+and ask it that exact question — `ai-thinking-partner.md` in this repo
+has the guardrails for using AI this way without letting it think for
+you.
+
+**What I heard in my own story that I hadn't put into words:**
 
 \
 \
@@ -117,7 +123,7 @@ self-doubt — that's what makes your certainty checkable.
 Not a mission statement. A **question** — the one your whole career
 has been trying to answer.
 
-*(Example — the facilitator's: "How do we create the conditions where
+*(Example — Foundry's own: "How do we create the conditions where
 people can do their best thinking, their best learning, and their best
 work?" Yours should sound nothing like it.)*
 
@@ -172,7 +178,8 @@ The system only compounds if it's fed. The minimum viable habit:
 stories from different contexts backed it.
 
 -   My day-30 review date: _________________________
--   My accountability partner from this room: _________________________
+-   My accountability check-in (a friend, a colleague, or just a
+    standing calendar reminder): _________________________
 
 ------------------------------------------------------------------------
 

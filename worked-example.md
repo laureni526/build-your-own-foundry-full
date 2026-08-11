@@ -1,7 +1,7 @@
 # Worked Example — Watching a Principle Get Earned
 
-*Build Your Own Foundry — companion to the facilitator guide (used at
-0:08–0:22 and referenced throughout)*
+*Build Your Own Foundry — how one principle got earned, over twenty
+years and five contexts*
 
 > Every citation below is real. These stories, patterns, and principles
 > live in Foundry today — `knowledge/Story_Library_v0.1.md`,
@@ -104,23 +104,8 @@ become coherent enough to reproduce itself.
 
 **And the governance discipline held the whole way:** the framework
 was only admitted to the Framework Library *because* it had been
-validated in real work. The same rule applies to the very workshop
-you're sitting in — the Minimum Viable Foundry model doesn't enter
-Lauren's Framework Library until this session has actually been taught.
+validated in real work. The same rule applies to the Solo Path itself
+— the Minimum Viable Foundry model doesn't enter Lauren's Framework
+Library until this path has actually been walked by people other than
+her.
 
-------------------------------------------------------------------------
-
-# How to Use This in the Room
-
--   **Part 1 is the teach** (0:08–0:22). Tell the five stories fast —
-    a minute each — then reveal the principle and its evidence list.
-    The reveal lands hardest if you show the actual Canon document
-    with the five contexts listed under the principle.
--   **Part 2 is the answer** to "where does this go?" — use it in the
-    close, or hold it for Q&A. Don't front-load it; on day one,
-    participants need to believe in story cards, not keynotes.
--   **The Slack bot flop doubles as the facilitator's "go first,
-    messy" story** in Exercise 1 (0:30). Using it twice is a feature:
-    by the end of the session, participants have seen the same story
-    function as vulnerability, as evidence, and as the seed of a
-    framework — which is exactly the point.
