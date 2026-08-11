@@ -119,9 +119,19 @@ Before you write your first voice, read
 [`worked-example-advocate.md`](worked-example-advocate.md) — one real,
 finished voice from the original Foundry, grounded in an actual
 pattern hunch and named stories. Notice that every line points at
-specific evidence. That's the standard. (It's one voice of a complete
-five-voice worked council; the shape you see here is identical for
-every voice, so one example is all you need.)
+specific evidence. That's the standard.
+
+All five of the original Foundry's voices are worked examples here, in
+case you want to see the whole shape before you build, or want to move
+past the Core Three the same day:
+[`worked-example-advocate.md`](worked-example-advocate.md),
+[`worked-example-critic.md`](worked-example-critic.md),
+[`worked-example-beneficiary.md`](worked-example-beneficiary.md),
+[`worked-example-executor.md`](worked-example-executor.md), and
+[`worked-example-long-view.md`](worked-example-long-view.md). One
+example is enough to learn the shape from — reading all five just
+means never guessing at what a voice you haven't built yet is supposed
+to sound like.
 
 **Installing in Claude Code:** each file here is the *body* of a
 skill. In your project folder create `.claude/skills/<voice-name>/`,
@@ -174,20 +184,36 @@ using this, and how?"
 # Growing the Council (the menu)
 
 Once the Minimum Viable Council runs, add voices that would genuinely
-change your thinking — and only those:
+change your thinking — and only those. Two of the next five have
+worked examples ready to build from right now; the rest are yours to
+invent, because Lauren doesn't have real material to demonstrate them
+with.
+
+**Ready-made continuations — worked examples included:**
 
 -   **The Executor** — the how. Ground it in the story where you
-    actually shipped something under real constraints.
--   **First Principles** — should this exist at all? Ground it in your
-    North Star question specifically.
+    actually shipped something under real constraints. See
+    [`worked-example-executor.md`](worked-example-executor.md).
 -   **The Long View** — what does this set in motion, for you and for
     others, over the next two years? The voice most people are missing
-    and don't realize it.
+    and don't realize it. See
+    [`worked-example-long-view.md`](worked-example-long-view.md).
+
+**Build-your-own — no worked example, because this one has to come
+from you:**
+
+-   **First Principles** — should this exist at all? Ground it in your
+    North Star question specifically.
 -   **The Compass** — does this fit who I am and what I'm building
     toward? Maps to whatever your Stage 5 foundations become.
 -   **Your own.** A specific mentor's voice. Your future self. The
     skeptic who always finds the flaw. If a voice would genuinely
     change your thinking, build it.
+
+If you're building this live in a session and move fast, don't stop at
+three — the Executor and Long View are ready the moment you want them.
+If you're picking this up on your own afterward, everything for the
+full five-voice council is already in this folder.
 
 And retire voices that never surprise you. A voice that always agrees
 is dead weight.
