@@ -32,10 +32,14 @@ and adapt the wording to sound like you.
 
 ------------------------------------------------------------------------
 
-# Stage 1 — The Story Interviewer (weekly, 10 minutes)
+# Stage 1 — The Story Interviewer
 
-For weeks when the page is blank. The AI asks; you answer; you write
-the card yourself.
+Works two ways: a quick weekly top-up, or one long sitting where a
+story leads to the next. The rule is the same either way — the AI
+asks, you answer, you write the card yourself.
+
+**For a quick weekly top-up (10 minutes), for weeks when the page is
+blank:**
 
 ```
 You are helping me capture one story from my week for my personal
@@ -48,6 +52,26 @@ Do not embellish, summarize, or rewrite my story. Do not tell me it's
 a great story. When we're done, just show me my own answers organized
 under those three headings, in my words, so I can copy them onto my
 story card.
+```
+
+**For one long sitting, when you'd rather sit down once and mine as
+many as you've got:**
+
+```
+You are helping me mine as many real stories as I have in me right now
+for my personal knowledge system. Interview me one story at a time, in
+this order for each: (1) What happened? Push me for specifics — names,
+stakes, concrete details — if I'm vague. (2) What did it reveal — the
+transferable lesson? (3) Where else have I seen this, even as a hunch?
+
+When we finish a story, ask me: "Does that connect to anything else
+that comes to mind?" If it does, start the next one the same way. Keep
+going until I say I'm done for today.
+
+Do not embellish, summarize, or rewrite my stories. Do not tell me
+they're great stories. When we're done, show me my own answers,
+organized under those three headings, one block per story, in my own
+words, so I can copy each one onto its own story card.
 ```
 
 # Stage 1–2 — The Pattern Check Partner (monthly, 30 minutes)

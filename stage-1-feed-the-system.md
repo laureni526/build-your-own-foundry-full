@@ -3,7 +3,9 @@
 *The Solo Path · typically the first 1–3 months, but the gate decides,
 not the calendar*
 
-> One story a week. One honest review a month. That's the whole stage.
+> One story at a time. One honest review a month. That's the whole
+> stage — whether you feed it in weekly sips or one long sitting with
+> your favorite drink and an AI that keeps asking "what else?"
 >
 > It's also the stage everything else depends on.
 
@@ -31,7 +33,12 @@ skipped this stage. Don't.
 
 # The Work
 
-## The weekly story (10 minutes)
+Choose your own adventure here — the gate at the end of this stage
+doesn't care how your stories arrived, only that they're real,
+specific, and honestly captured. Mix tempos freely; plenty of people
+do both.
+
+## Weekly sips (10 minutes a week)
 
 On your writing day, capture one story using the card structure
 (`templates.md` has it):
@@ -54,7 +61,25 @@ If you're stuck on your writing day, use the workshop's prompts:
 -   Something that worked, that you've never explained to anyone
 -   Advice you gave this week — and the moment that originally taught it to you
 
-## The monthly pattern check (30 minutes)
+## Or: one long sitting
+
+Some people don't want a weekly ritual — they want to sit down once,
+with a drink and an AI, and just talk until the stories stop coming.
+That works too. Once one memory surfaces, the next one is usually
+close behind; you may find it's harder to stop than to start.
+
+`ai-thinking-partner.md` has a version of the Story Interviewer prompt
+built for exactly this — it keeps asking "does that connect to
+anything else?" after each story instead of stopping at one. Use the
+same card structure above for each story as it comes, so you're
+capturing in your own words as you go rather than trying to reconstruct
+everything from memory afterward. Stop when you run out of real
+stories, not when you hit a number.
+
+One thing a big first sitting doesn't buy you: a skip on what comes
+next. It's a running start, not a finish line — see "Watch For" below.
+
+## The monthly pattern check (30 minutes) — same either way
 
 Once a month, reread *everything* you've captured and ask three
 questions:
@@ -89,6 +114,12 @@ That's the entire ritual. `templates.md` has a checklist version.
 -   **Early promotion.** You'll feel certain about your hunch by story
     six. Certainty isn't the bar — evidence from different contexts is.
     Park the certainty on your Open Questions page and keep going.
+-   **The one-and-done binge.** A great long sitting can feel like
+    "I'm done capturing stories" — but the gate below wants at least
+    three monthly pattern checks, which takes months no matter how
+    many cards you wrote on day one. Treat a big first sitting as a
+    running start, not a finish line, and keep the habit going after
+    it.
 
 ------------------------------------------------------------------------
 
