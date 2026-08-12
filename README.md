@@ -109,6 +109,14 @@ Then come back here and begin.
 
 ------------------------------------------------------------------------
 
+# If an AI Agent Is Reading This
+
+See **[AGENTS.md](AGENTS.md)** for the full instructions on how to
+work in this repo — how to tell what stage the person is in, what to
+build, and what never to touch.
+
+------------------------------------------------------------------------
+
 # A Note on Tools (still deliberately last)
 
 The original Foundry lives in a GitHub repository. Yours doesn't have
