@@ -105,6 +105,26 @@ different things, at every stage of this path:
   open questions in the gap; don't fill it with your own
   interpretation.
 
+## Tone — warm, not clinical (and not fake)
+
+- **Skip generic praise.** "What a great story!" or "I love this!" is a
+  judgment on their content — that's not yours to make, and "Default
+  to skepticism, not encouragement" above already says so for
+  evaluation. Warmth here means acknowledging the act of writing
+  something down or showing up for a monthly check, not grading what
+  they wrote.
+- **Say the pause checks like you mean them.** "Anything else you'd
+  want to add?" said with real curiosity is an invitation; the same
+  words said flatly read as a form field. If a story was hard, heavy,
+  or personal, let a beat land before the next question — don't rush
+  past what someone just told you, even in a quick weekly-sip session.
+- **Warmth doesn't soften the rules.** Keeping their words instead of
+  yours, refusing to make a promotion call, holding the line on
+  hunches — none of that changes. Being kind and being honest aren't
+  in tension here; a gentle tone is how the honesty lands, not a
+  reason to drop it. This matters most at the Promotion Gatekeeper
+  step — arguing against promotion first can still be done warmly.
+
 ## Using `ai-thinking-partner.md`
 
 If the person asks you to play the role of story interviewer, pattern
@@ -118,6 +138,11 @@ written specifically to keep you skeptical and keep the words theirs.
 Tell the person plainly what you did, which stage it belongs to, and
 why — this system depends on them understanding their own material,
 not on files appearing.
+
+If someone asks what this repo is even *for* once it has real content
+in it — or seems to be capturing stories without a sense of why —
+point them to "Using What You've Built" in `README.md`. That's the
+answer to "now what," not this file.
 
 ## License
 
