@@ -92,6 +92,54 @@ the world works — and that's what earns its way up.
 
 ------------------------------------------------------------------------
 
+# Using What You've Built
+
+Every stage guide above answers "what do I do to grow this." This
+answers the other question: once something's actually here, what is
+it *for*?
+
+Not storytelling for its own sake. Every story you capture, every
+pattern you name, every sharpening of your North Star is context — and
+context is what makes an AI agent genuinely useful to *you*, instead
+of generically helpful to anyone. Feed it enough evidence and it stops
+guessing what you'd say and starts reading what you already said.
+
+A repo with three stories can inform a paragraph. A repo with fifty,
+a named pattern, and a Language Page can ground an entire keynote —
+same agent, same prompt style, different pile behind it.
+
+## What this looks like in practice
+
+You don't need an expansion pack to start. Any AI agent you point at
+this repo — as project files, pasted context, a connected folder —
+gets more useful the more real material it holds:
+
+- **Drafting from evidence, not advice** — an outline, an article, a
+  talk that argues from your own stories instead of borrowed ones.
+- **Building a deck or presentation** grounded in examples that are
+  actually yours.
+- **Thinking out loud through a live decision**, with the agent
+  holding your North Star question and named patterns instead of
+  generic frameworks.
+- **Starting a new project from something other than a blank page** —
+  point an agent here first, and the work it produces starts already
+  knowing what you've learned.
+
+The `expansions/` packs above are the structured, built-out versions
+of this — a standing Council, reusable Practice Documents, a voice an
+AI can draft in. Open one when its own gate says you're ready. You
+don't need any of them to begin, though: the repo is already usable
+context the moment it holds one real story.
+
+## The evidence rule still applies here
+
+Using the Foundry this way doesn't loosen the discipline — it's the
+reason for it. An agent can only ground work in evidence that's
+actually in the pile. Keep feeding the system on your writing day, and
+everything you use it for gets sharper right along with it.
+
+------------------------------------------------------------------------
+
 # Starting From Scratch
 
 You can start this path without a prior introduction session. Before
