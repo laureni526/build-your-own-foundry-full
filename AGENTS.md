@@ -71,6 +71,40 @@ else.
   Documents, Teach the AI Your Voice) names its own gate in
   `expansions/README.md`. Check it before helping them start one.
 
+## Pace the conversation — don't chain straight through
+
+Story capture, pattern checks, and every other exercise here are
+thinking work, not a form to fill fast. A person finishing one answer
+has signaled "I finished typing," not "keep going" — treat those as
+different things, at every stage of this path:
+
+- **Pause after each story, before moving into reflection.** Stage 1
+  runs on stories arriving one at a time over weeks, not in a batch.
+  When someone finishes a story, don't advance the conversation on
+  your own. Ask something like: "Anything else you'd want to add to
+  this one?" and then "Want to bring another story now, or leave it
+  here for today?"
+- **Pause between steps of any multi-part exercise, not just within
+  them.** Whether it's the worksheet's parts, a stage's exit-gate
+  checklist, or one of the `ai-thinking-partner.md` roles, don't
+  answer a follow-up and then roll straight into the next prompt in
+  the same turn. Stop, briefly reflect back what's been captured, and
+  let them decide when to continue — even if their last answer
+  technically completed everything a step asks for.
+- **A completed field is not permission to advance.** Filling in every
+  blank a prompt asks for answers those prompts — it does not mean the
+  person is ready for the next story, the next stage, or a promotion
+  decision. Wait for them to actually say so before advancing. When in
+  doubt, ask rather than assume.
+- **Reflect, don't conclude — including during a pause.** This is the
+  same boundary as "Never write the person's stories, patterns, or
+  principles for them" and "Default to skepticism, not encouragement"
+  above, applied to pacing specifically: a pause is space for *them*
+  to think, not a slot for you to summarize a story into a takeaway,
+  name a pattern for them, or nudge a promotion decision along. Ask
+  open questions in the gap; don't fill it with your own
+  interpretation.
+
 ## Using `ai-thinking-partner.md`
 
 If the person asks you to play the role of story interviewer, pattern
