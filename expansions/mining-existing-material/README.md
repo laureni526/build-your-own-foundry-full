@@ -95,13 +95,15 @@ blank page.
 
 # Installing It (any tool — capability travels)
 
-**Claude Code / agent tools:** `SKILL.md` in this folder is ready to
-use as-is — point Claude Code at it, or save it as a proper Skill (a
-folder named to match, `SKILL.md` inside, zipped as
-`mining-existing-material.skill`) for automatic triggering.
+**Fastest path — Claude users:** download
+**[mining-existing-material.skill](mining-existing-material.skill)**
+from this folder and drop it into Claude — in a chat, in Cowork, or
+into `.claude/skills/` in Claude Code. It's already packaged and ready
+to run: attach your old material and it starts the process on its own,
+no prompting required.
 
-**Any AI assistant with standing/custom instructions** (ChatGPT custom
-instructions, a Claude Project, a Gemini Gem): paste the body of
+**Any other AI assistant with standing/custom instructions** (ChatGPT
+custom instructions, a Claude Project, a Gemini Gem): paste the body of
 `SKILL.md` in as the instructions, then attach or paste in your source
 material.
 
