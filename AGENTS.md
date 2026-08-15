@@ -67,9 +67,12 @@ else.
   (stories, patterns, principles) until Stage 3 or 4 — let that need
   arrive before solving it, per the "Note on Tools" in `README.md`.
 - **Do not open an `expansions/` pack for someone who hasn't met its
-  stated prerequisite.** Each pack in `expansions/` (Council, Practice
-  Documents, Teach the AI Your Voice) names its own gate in
-  `expansions/README.md`. Check it before helping them start one.
+  stated prerequisite.** Each pack in `expansions/` (Mining Existing
+  Material, Council, Practice Documents, Teach the AI Your Voice) names
+  its own gate in `expansions/README.md`. Check it before helping them
+  start one — note that Mining Existing Material's gate runs backwards
+  from the other three: it's an on-ramp for people with pre-Foundry
+  material, not a later-stage pack.
 
 ## Pace the conversation — don't chain straight through
 
