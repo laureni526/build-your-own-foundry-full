@@ -110,26 +110,29 @@ Not a customer persona — one real human on the other end.
 
 # Building a Voice
 
-Copy `_TEMPLATE-voice.md` once per voice. Fill in **"Grounded in"
+Start from the **[`starter-kit/`](starter-kit/)** folder. Copy
+`starter-kit/_TEMPLATE-voice.md` once per voice. Fill in **"Grounded in"
 first** — a voice grounded in a real story gives sharp feedback; a
 voice grounded in "be skeptical" gives you a fortune cookie. The
 grounding *is* the skill.
 
 Before you write your first voice, read
-[`worked-example-advocate.md`](worked-example-advocate.md) — one real,
-finished voice from the original Foundry, grounded in an actual
-pattern hunch and named stories. Notice that every line points at
-specific evidence. That's the standard.
+[`worked-examples/worked-example-advocate.md`](worked-examples/worked-example-advocate.md)
+— one real, finished voice from the original Foundry, grounded in an
+actual pattern hunch and named stories. Notice that every line points
+at specific evidence. That's the standard.
 
-All five of the original Foundry's voices are worked examples here, in
-case you want to see the whole shape before you build, or want to move
-past the Core Three the same day:
-[`worked-example-advocate.md`](worked-example-advocate.md),
-[`worked-example-critic.md`](worked-example-critic.md),
-[`worked-example-beneficiary.md`](worked-example-beneficiary.md),
-[`worked-example-executor.md`](worked-example-executor.md), and
-[`worked-example-long-view.md`](worked-example-long-view.md). One
-example is enough to learn the shape from — reading all five just
+All five of the original Foundry's voices are worked examples in
+**[`worked-examples/`](worked-examples/)**, in case you want to see the
+whole shape before you build, or want to move past the Core Three the
+same day:
+[`worked-example-advocate.md`](worked-examples/worked-example-advocate.md),
+[`worked-example-critic.md`](worked-examples/worked-example-critic.md),
+[`worked-example-beneficiary.md`](worked-examples/worked-example-beneficiary.md),
+[`worked-example-executor.md`](worked-examples/worked-example-executor.md),
+and
+[`worked-example-long-view.md`](worked-examples/worked-example-long-view.md).
+One example is enough to learn the shape from — reading all five just
 means never guessing at what a voice you haven't built yet is supposed
 to sound like.
 
@@ -139,9 +142,9 @@ save the filled-in file inside as `SKILL.md`, and make sure the
 `name:` in the frontmatter matches the folder name. Now "run this past
 my critic" fires just that voice.
 
-Then build the **Weaver** (`weaver.md` — mostly done, you list your
-voices) and, if you want the reach goal, the **runner** (`council.md`
-— pre-wired, you fill in your sequence).
+Then build the **Weaver** (`starter-kit/weaver.md` — mostly done, you
+list your voices) and, if you want the reach goal, the **runner**
+(`starter-kit/council.md` — pre-wired, you fill in your sequence).
 
 ------------------------------------------------------------------------
 
@@ -193,11 +196,11 @@ with.
 
 -   **The Executor** — the how. Ground it in the story where you
     actually shipped something under real constraints. See
-    [`worked-example-executor.md`](worked-example-executor.md).
+    [`worked-example-executor.md`](worked-examples/worked-example-executor.md).
 -   **The Long View** — what does this set in motion, for you and for
     others, over the next two years? The voice most people are missing
     and don't realize it. See
-    [`worked-example-long-view.md`](worked-example-long-view.md).
+    [`worked-example-long-view.md`](worked-examples/worked-example-long-view.md).
 
 **Build-your-own — no worked example, because this one has to come
 from you:**
@@ -231,8 +234,8 @@ Every file here is plain markdown. In any AI assistant:
 1.  Paste a filled-in voice file and your idea → that voice's read.
 2.  Repeat per voice, in separate conversations (separate matters —
     voices that can see each other's answers start agreeing).
-3.  Paste all the outputs plus `weaver.md` into a fresh conversation →
-    the synthesis.
+3.  Paste all the outputs plus `starter-kit/weaver.md` into a fresh
+    conversation → the synthesis.
 
 That's the whole orchestration, done by hand. One more step, same
 council.
