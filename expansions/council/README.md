@@ -68,6 +68,32 @@ the Weaver turns into one real decision.
 
 ------------------------------------------------------------------------
 
+# Why This Argues Like You, Not Just Sounds Like You
+
+"AI council" invites two wrong pictures. Worth clearing both up before
+you build.
+
+**Grounding isn't a style choice — it's a process difference.** A
+Critic prompted with "be skeptical" runs a generic risk-scan; that's a
+*style* difference from a generic Critic. A Critic grounded in your
+actual Open Questions page is reasoning from the same evidence you'd
+reach for if you argued the other side yourself — that's a *process*
+difference. The council isn't sounding more like you. It's deciding
+more like you, because it's arguing from your evidence instead of a
+persona description.
+
+**Orchestration is not five bots debating each other.** What's
+actually happening when you "run this through my council": one model,
+instructed to adopt each voice's grounded lens in turn, holding each
+read, then applying the Weaver's synthesis last. The `council.md`
+runner you'll build below is prose instructions to that one model —
+"speak as the Advocate, then the Critic, then the Beneficiary, then
+weave" — not a program calling functions or five agents messaging each
+other. See "Running It Without Claude Code" further down for the same
+sequence done entirely by hand — same idea, one extra step.
+
+------------------------------------------------------------------------
+
 # The Core Three
 
 They form the tightest universal tension triangle: *is it great / will

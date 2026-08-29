@@ -31,6 +31,28 @@ Now you can invoke a single voice ("run this past my critic") or, once
 you've built the runner, the whole council ("run this through my
 council").
 
+## The order that guarantees a working council
+
+Build in this order so you always end up with something that runs, even
+if you don't finish everything:
+
+1. **Advocate, Critic, Beneficiary** — build and test each one alone.
+2. **Weaver** — now you have a *Minimum Viable Council* (3 voices + Weaver).
+   This is the finish line. If you stop here, you still won.
+3. **Council runner** — the reach goal: one command convenes everyone.
+4. **Then customize** — add the Executor, First Principles, the Long View,
+   the Compass, or a voice of your own. Swap out any voice that never
+   surprises you.
+
+## The guardrails are yours to adjust
+
+Every field in the template — especially **"Never does"** — is Lauren's
+own default, written for how she wants a voice to behave. It's a
+starting point, not a rule you're bound to. Want your Critic sharper
+than hers? Your Advocate more willing to overstate a case? Turn that
+line up or down until the voice sounds like *you*. You're not editing
+someone else's finished product — you're rewriting your own source file.
+
 ## The one rule that matters
 
 Fill in **"Grounded in"** before you write anything else in a voice. A

@@ -25,7 +25,9 @@ its own words — not a generic template question]"
 
 **Never does:** [the failure mode this voice must avoid — e.g. an Advocate
 that just cheerleads, a Critic that's contrarian for sport, a Beneficiary
-that talks like a market-research slide]
+that talks like a market-research slide. This is a dial, not a law —
+Lauren's default is a starting point; turn it up or down until this
+sounds like your own voice, not hers.]
 
 **Sample output on a real idea:**
 [Write one short example of this voice reacting to a real idea, in its
