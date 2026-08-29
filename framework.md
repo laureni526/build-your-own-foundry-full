@@ -8,6 +8,17 @@
 
 ------------------------------------------------------------------------
 
+# Why I Built This
+
+Before the mechanism below — why a working leader decided this needed
+to be a real, maintained system instead of another philosophy written
+once and never reopened. **[Lauren's own story goes here — not written
+yet, because it's hers to tell, not something to draft generically. If
+you're reading this before it's filled in, skip ahead: the method
+stands on its own, but the story is why it's worth building.]**
+
+------------------------------------------------------------------------
+
 # The Problem This Solves
 
 People with deep lived expertise — coaches, consultants, educators,
