@@ -10,12 +10,24 @@
 
 # Why I Built This
 
-Before the mechanism below — why a working leader decided this needed
-to be a real, maintained system instead of another philosophy written
-once and never reopened. **[Lauren's own story goes here — not written
-yet, because it's hers to tell, not something to draft generically. If
-you're reading this before it's filled in, skip ahead: the method
-stands on its own, but the story is why it's worth building.]**
+I kept hitting the same two walls. AI could write competently, but it
+never sounded like me — not my thinking, not my writing, just capable
+output that could have come from anyone, because it had nothing of
+mine to work from. And every time a better tool came along, nothing I'd
+built traveled with it. My memory lived wherever I'd typed it last, so
+a new tool meant starting over from zero. Again.
+
+Capability travels. Tools don't — not unless you build the thing that
+carries it.
+
+So I built a central place for my own stories, memories, and ideas —
+one I own, that outlasts any single AI. And it does more than hold my
+facts: my Council is tuned to how I actually tell stories and make
+decisions, so it pushes back the way I would if I argued the other
+side myself. Not an AI that validates whatever I already believe. Real,
+aligned pushback.
+
+That's the first version you're about to build.
 
 ------------------------------------------------------------------------
 
