@@ -207,6 +207,7 @@ using this, and how?"
 | Beneficiary sounds like a market-research slide | No specific person pictured | Picture one real face and write from their situation |
 | Weaver just lists what each voice said | No real friction to synthesize | Rebuild it after a test round that produced actual disagreement |
 | Stuck at zero | Perfectionism on voice #1 | Clone the worked example, then edit until it's yours |
+| Trying to open five separate chats, or asking how to "connect" the voices to each other | Orchestration misheard as parallel agents instead of one model taking grounded turns | Re-read "Why This Argues Like You" above — it's one model, one sequence, then the Weaver, not a panel of separate bots |
 
 ------------------------------------------------------------------------
 
