@@ -1,7 +1,7 @@
 # Stage 5 — Foundations
 
-*The Solo Path · typically year one and beyond — and the only stage
-with no exit gate*
+*Build Your Own Foundry Full · typically year one and beyond — and
+the only stage with no exit gate*
 
 > Remember what the workshop told you not to do on day one?
 >

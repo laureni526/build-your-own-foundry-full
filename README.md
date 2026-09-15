@@ -1,6 +1,6 @@
 # Growing Your Foundry
 
-*Build Your Own Foundry — The Solo Path*
+*Build Your Own Foundry Full*
 
 > **Already built your first five pieces at an introduction session?**
 > One question, a few story cards, one hunch, an Open Questions page,

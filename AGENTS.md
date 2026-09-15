@@ -7,7 +7,7 @@ helpful, thorough, or fast.
 
 ## What this repo is
 
-**Growing Your Foundry — The Solo Path.** A self-guided, multi-month
+**Growing Your Foundry — Build Your Own Foundry Full.** A self-guided, multi-month
 (often multi-year) continuation of the "Build Your Foundry" workshop.
 Someone builds a personal knowledge system — stories, then patterns,
 then earned principles, then practice, then foundations — one stage

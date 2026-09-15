@@ -104,8 +104,9 @@ become coherent enough to reproduce itself.
 
 **And the governance discipline held the whole way:** the framework
 was only admitted to the Framework Library *because* it had been
-validated in real work. The same rule applies to the Solo Path itself
-— the Minimum Viable Foundry model doesn't enter Lauren's Framework
+validated in real work. The same rule applies to Build Your Own
+Foundry Full itself — the Minimum Viable Foundry model doesn't enter
+Lauren's Framework
 Library until this path has actually been walked by people other than
 her.
 

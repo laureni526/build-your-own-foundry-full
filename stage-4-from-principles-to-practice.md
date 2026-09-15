@@ -1,7 +1,7 @@
 # Stage 4 — From Principles to Practice
 
-*The Solo Path · typically months 6–12 of the journey, but the gate
-decides, not the calendar*
+*Build Your Own Foundry Full · typically months 6–12 of the journey,
+but the gate decides, not the calendar*
 
 > A principle tells you what's true. A practice tells you what to do
 > at 2pm on a Tuesday when you see it happening.

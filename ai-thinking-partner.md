@@ -1,6 +1,6 @@
 # Using AI as Your Foundry's Thinking Partner
 
-*The Solo Path · optional companion — works with any AI assistant*
+*Build Your Own Foundry Full · optional companion — works with any AI assistant*
 
 > AI can help you *see* your evidence. It must never *replace* your
 > evidence.
