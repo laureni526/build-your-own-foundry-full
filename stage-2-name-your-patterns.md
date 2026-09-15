@@ -1,7 +1,7 @@
 # Stage 2 — Name Your Patterns
 
-*The Solo Path · typically months 1–3 of the journey, but the gate
-decides, not the calendar*
+*Build Your Own Foundry Full · typically months 1–3 of the journey,
+but the gate decides, not the calendar*
 
 > A hunch becomes a pattern the day the evidence says so — and the day
 > you give it a name you'd actually say out loud.

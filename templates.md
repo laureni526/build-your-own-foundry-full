@@ -1,6 +1,6 @@
 # Templates — Every Shape You'll Need
 
-*The Solo Path · companion to Stages 1–5*
+*Build Your Own Foundry Full · companion to Stages 1–5*
 
 > One rule governs this whole file: **the shapes are borrowed; the
 > content never is.** A Foundry whose content is borrowed is someone

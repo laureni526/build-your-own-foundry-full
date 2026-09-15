@@ -1,7 +1,7 @@
 # Stage 3 — Test, Then Earn Your Principles
 
-*The Solo Path · typically months 3–6 of the journey, but the gate
-decides, not the calendar*
+*Build Your Own Foundry Full · typically months 3–6 of the journey,
+but the gate decides, not the calendar*
 
 > You've been watching your patterns. Now you act on one, on purpose —
 > and if it survives, you get to write the sentence.

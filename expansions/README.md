@@ -1,6 +1,6 @@
 # Expansions — Optional Packs for a Growing Foundry
 
-The Solo Path is the spine: stories → patterns → principles →
+Build Your Own Foundry Full is the spine: stories → patterns → principles →
 practice → foundations. Nothing in this folder is required to walk
 it.
 

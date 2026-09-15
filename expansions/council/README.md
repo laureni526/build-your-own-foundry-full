@@ -1,7 +1,7 @@
 # The Foundry Council — Build a Thinking Partner From Your Own Evidence
 
-*Expansion pack · self-paced · works alongside any stage of the Solo Path
-from Stage 1 onward*
+*Expansion pack · self-paced · works alongside any stage of Build
+Your Own Foundry Full from Stage 1 onward*
 
 > Not five generic AI personas. A council of voices that argue from
 > your own stories — and disagree with each other in front of you.
@@ -16,7 +16,8 @@ to attend that session, you can stop reading — building it twice makes
 the second build worse, because the surprise is part of the learning.
 This self-paced version is for everyone else: you're not attending,
 you attended and want to rebuild it properly, or you're working the
-Solo Path on your own and your evidence is ready to be *used*.
+Build Your Own Foundry Full on your own and your evidence is ready to
+be *used*.
 
 ------------------------------------------------------------------------
 

@@ -1,7 +1,7 @@
 # Stage 1 — Feed the System
 
-*The Solo Path · typically the first 1–3 months, but the gate decides,
-not the calendar*
+*Build Your Own Foundry Full · typically the first 1–3 months, but the
+gate decides, not the calendar*
 
 > One story at a time. One honest review a month. That's the whole
 > stage — whether you feed it in weekly sips or one long sitting with
