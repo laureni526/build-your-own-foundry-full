@@ -1,61 +1,68 @@
 # Foundry Council — Starter Kit
 
-Everything you need to build your council today, so nobody starts from a
-blank page. Copy these, fill the blanks, and you have a working council.
+Everything you need to build a full council today, so nobody starts
+from a blank page. There's one template per voice, already shaped, with
+its grounding question built in. You bring the evidence.
 
 ## What's in here
 
-- **`_TEMPLATE-voice.md`** — the blank voice skill. Copy it once per voice
-  and fill it in. Start with your Core Three: an **Advocate**, a
-  **Critic**, and a **Beneficiary**.
-- **`weaver.md`** — the synthesis skill. Mostly done already — the
-  synthesis logic is generic. You just tell it which voices it reads.
-- **`council.md`** — the one-command runner (the reach goal). Pre-wired;
-  you fill in the sequence of your own voices.
+| File | What it is | When you build it |
+|---|---|---|
+| `advocate.md` | Voice 1: the strongest case *for* | Core Three |
+| `critic.md` | Voice 2: the stress test, aimed at your real blind spot | Core Three |
+| `beneficiary.md` | Voice 3: the one real person it's for | Core Three |
+| `weaver.md` | Synthesis into one decision | Right after the Core Three. **This is the floor.** |
+| `executor.md` | Voice 4: the smallest real first move | Complete your council |
+| `long-view.md` | Voice 5: what this sets in motion in two years | Complete your council |
+| `council.md` | The one-command runner, pre-wired for all five | Complete your council |
+| `_TEMPLATE-voice.md` | Blank voice, for a voice of your own (First Principles, the Compass, a mentor, your future self) | Swap in or add on |
 
-For a full worked example — five real voices, a Weaver, and a runner, all
-grounded in one person's actual material — see the
-`../worked-examples/` folder. Read the Advocate there before you write
-yours; it shows what "grounded, not generic" looks like.
+Each voice template has a worked example in `../worked-examples/`: a
+real, finished council grounded in one person's actual stories. Read
+the matching example before you fill a template. Copy its shape, never
+its content.
+
+## The order
+
+1. **Advocate, Critic, Beneficiary.** Build and test each one alone.
+2. **Weaver.** Now you have a Minimum Viable Council: three voices and a
+   Weaver, running. That's the floor. Everyone gets here.
+3. **Executor and Long View.** Voices four and five.
+4. **Council runner.** One command convenes all five, then the Weaver.
+5. **Run the same idea through the full council** and compare it to your
+   three-voice read. What did the extra voices catch?
+
+Aim for all five, the Weaver, and the runner. The templates are built so
+that's reachable in one sitting. If you stop at step 2, you still have a
+council that works.
+
+## How to fill a template
+
+1. Answer the grounding question in the comment at the top first, in
+   writing, from your own story cards, hunch, or open questions.
+2. Fill **Grounded in** next. A voice grounded in a real story gives
+   sharp feedback. A voice grounded in "be skeptical" gives you a
+   fortune cookie. The grounding *is* the skill.
+3. Then **Always asks**, then the **Sample output**.
+4. **Never does** is pre-filled with a default. It's a dial, not a law.
+   Turn it up or down until the voice sounds like you.
+5. Delete the comments.
 
 ## How to install a skill (Claude Code)
 
-Each file here is the *body* of a Claude Code skill. To make it real in
-your own project:
+Each file here is the body of a Claude Code skill. In your own project:
 
-1. In your project folder, create `.claude/skills/<voice-name>/`.
+1. Create `.claude/skills/<voice-name>/` (for example
+   `.claude/skills/critic/`).
 2. Save the filled-in file inside it as `SKILL.md`.
 3. Make sure the `name:` in the frontmatter matches the folder name.
 
-Now you can invoke a single voice ("run this past my critic") or, once
-you've built the runner, the whole council ("run this through my
-council").
+Then "run this past my critic" fires one voice, and, once you've built
+the runner, "run this through my council" fires all of them.
 
-## The order that guarantees a working council
+## No Claude Code?
 
-Build in this order so you always end up with something that runs, even
-if you don't finish everything:
-
-1. **Advocate, Critic, Beneficiary** — build and test each one alone.
-2. **Weaver** — now you have a *Minimum Viable Council* (3 voices + Weaver).
-   This is the finish line. If you stop here, you still won.
-3. **Council runner** — the reach goal: one command convenes everyone.
-4. **Then customize** — add the Executor, First Principles, the Long View,
-   the Compass, or a voice of your own. Swap out any voice that never
-   surprises you.
-
-## The guardrails are yours to adjust
-
-Every field in the template — especially **"Never does"** — is Lauren's
-own default, written for how she wants a voice to behave. It's a
-starting point, not a rule you're bound to. Want your Critic sharper
-than hers? Your Advocate more willing to overstate a case? Turn that
-line up or down until the voice sounds like *you*. You're not editing
-someone else's finished product — you're rewriting your own source file.
-
-## The one rule that matters
-
-Fill in **"Grounded in"** before you write anything else in a voice. A
-voice grounded in a real story, your pattern hunch, or a real open
-question gives sharp feedback. A voice grounded in "be skeptical" gives
-you a fortune cookie. The grounding *is* the skill.
+Every file is plain markdown. In any AI assistant, paste one filled-in
+voice plus your idea into its own conversation, repeat for each voice,
+then paste all the outputs plus `weaver.md` into a fresh conversation.
+Same council, done by hand.

@@ -137,8 +137,15 @@ Not a customer persona — one real human on the other end.
 
 # Building a Voice
 
-Start from the **[`starter-kit/`](starter-kit/)** folder. Copy
-`starter-kit/_TEMPLATE-voice.md` once per voice. Fill in **"Grounded in"
+Start from the **[`starter-kit/`](starter-kit/)** folder. Every voice
+has its own template, already shaped, with its grounding question at
+the top: [`advocate.md`](starter-kit/advocate.md),
+[`critic.md`](starter-kit/critic.md),
+[`beneficiary.md`](starter-kit/beneficiary.md),
+[`executor.md`](starter-kit/executor.md), and
+[`long-view.md`](starter-kit/long-view.md). For a voice of your own,
+copy the blank `starter-kit/_TEMPLATE-voice.md`. Answer the grounding
+question in writing, then fill in **"Grounded in"
 first** — a voice grounded in a real story gives sharp feedback; a
 voice grounded in "be skeptical" gives you a fortune cookie. The
 grounding *is* the skill.
@@ -169,9 +176,13 @@ save the filled-in file inside as `SKILL.md`, and make sure the
 `name:` in the frontmatter matches the folder name. Now "run this past
 my critic" fires just that voice.
 
-Then build the **Weaver** (`starter-kit/weaver.md` — mostly done, you
-list your voices) and, if you want the reach goal, the **runner**
-(`starter-kit/council.md` — pre-wired, you fill in your sequence).
+Then build the **Weaver** (`starter-kit/weaver.md` — mostly done; trim
+the Reads line to the voices you've built) and the **runner**
+(`starter-kit/council.md` — pre-wired for all five; delete any voice you
+haven't built). Both have worked examples too:
+[`worked-example-weaver.md`](worked-examples/worked-example-weaver.md)
+and
+[`worked-example-council.md`](worked-examples/worked-example-council.md).
 
 ------------------------------------------------------------------------
 
@@ -220,18 +231,20 @@ worked examples ready to build from right now; the rest are yours to
 invent, because Lauren doesn't have real material to demonstrate them
 with.
 
-**Ready-made continuations — worked examples included:**
+**Ready-made continuations — template and worked example included:**
 
 -   **The Executor** — the how. Ground it in the story where you
-    actually shipped something under real constraints. See
+    actually shipped something under real constraints. Template:
+    [`starter-kit/executor.md`](starter-kit/executor.md). Example:
     [`worked-example-executor.md`](worked-examples/worked-example-executor.md).
 -   **The Long View** — what does this set in motion, for you and for
     others, over the next two years? The voice most people are missing
-    and don't realize it. See
+    and don't realize it. Template:
+    [`starter-kit/long-view.md`](starter-kit/long-view.md). Example:
     [`worked-example-long-view.md`](worked-examples/worked-example-long-view.md).
 
-**Build-your-own — no worked example, because this one has to come
-from you:**
+**Build-your-own — start from `starter-kit/_TEMPLATE-voice.md`; no
+worked example, because this one has to come from you:**
 
 -   **First Principles** — should this exist at all? Ground it in your
     North Star question specifically.
