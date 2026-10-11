@@ -153,11 +153,11 @@ grounding *is* the skill.
 
 Before you write your first voice, read
 [`worked-examples/worked-example-advocate.md`](worked-examples/worked-example-advocate.md)
-— one real, finished voice from the original Foundry, grounded in an
+— one real, finished voice from a working council, grounded in an
 actual pattern hunch and named stories. Notice that every line points
 at specific evidence. That's the standard.
 
-All five of the original Foundry's voices are worked examples in
+All five voices of that working council are worked examples in
 **[`worked-examples/`](worked-examples/)**, in case you want to see the
 whole shape before you build, or want to move past the Core Three the
 same day:
