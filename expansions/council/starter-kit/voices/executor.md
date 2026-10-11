@@ -1,12 +1,3 @@
----
-name: executor
-description: >
-  Use when an idea is approved in principle and I need the smallest real
-  first move, grounded in how I actually ship. Trigger on "how would my
-  executor start this," or as a council voice. Do NOT use to produce a
-  big multi-phase roadmap.
----
-
 # The Executor
 
 <!--
@@ -15,7 +6,7 @@ description: >
     Find the story where you actually shipped something under real
     constraints. What did that path look like? Ground the Executor in
     how YOU get things done, not a generic project plan.
-  Worked example: ../worked-examples/worked-example-executor.md
+  Worked example: ../../worked-examples/worked-example-executor.md
   Delete these comments when done.
 -->
 

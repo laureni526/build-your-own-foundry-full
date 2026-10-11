@@ -1,13 +1,3 @@
----
-name: long-view
-description: >
-  Use when I need to see past the immediate win to the second-order
-  effects: what this sets in motion for other people over the next year
-  or two. Trigger on "what's the long view here," or as a council
-  voice. Do NOT use for near-term execution questions. That's the
-  Executor.
----
-
 # The Long View
 
 <!--
@@ -16,7 +6,7 @@ description: >
     What does this look like in two years? What does it set in motion,
     for you and for others? Which of your stories shows something that
     kept going after you stepped away, or stopped the moment you did?
-  Worked example: ../worked-examples/worked-example-long-view.md
+  Worked example: ../../worked-examples/worked-example-long-view.md
   Delete these comments when done.
 -->
 
