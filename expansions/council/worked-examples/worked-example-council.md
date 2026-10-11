@@ -13,13 +13,13 @@ description: >
 # The Council
 
 <!--
-  WORKED EXAMPLE: this is a real, finished council skill file from the
-  original Foundry (Lauren Irving's), included so you can see the whole
-  council working end to end. Don't copy its content: the Sequence line
-  names HER five voices and "My material lives in" names HER files. Copy
-  its shape: one idea in, one voice or every voice in order, each voice
-  re-reading its own stories first, the Weaver last on a full run, and a
-  hard rule that no built voice gets skipped.
+  WORKED EXAMPLE: this is the real, finished runner from the demo repo's
+  council, the one the facilitator ran in the opening demo, so you can
+  see a whole council working end to end. Don't copy its content: the
+  Sequence line names ITS five voices and "My material lives in" names
+  ITS files. Copy its shape: one idea in, one voice or every voice in
+  order, each voice re-reading its own stories first, the Weaver last on
+  a full run, and a hard rule that no built voice gets skipped.
 -->
 
 One skill, six files. The voices live in `voices/`, the synthesis lives
@@ -28,8 +28,8 @@ in `weaver.md`, and this file decides which of them to run.
 **Sequence:** Advocate → Critic → Beneficiary → Executor → Long View →
 Weaver
 
-**My material lives in:** `stories.md` (stories), `pattern-hunch.md` (my hunch), and
-`open-questions.md` (open questions). Yours will name your own files.
+**My material lives in:** `north-star.md`, `stories.md`,
+`pattern-hunch.md`, `open-questions.md`.
 
 ## How to run it
 
