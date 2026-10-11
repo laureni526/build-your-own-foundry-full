@@ -58,8 +58,9 @@ have something that runs:
 1.  **Core Three voices** — build and test each one alone.
 2.  **The Weaver** — synthesis. Reaching here = Minimum Viable
     Council. If you stop here, you still won.
-3.  **The runner** — one command convenes everyone. A reach goal, not
-    a requirement.
+3.  **The full-council run** — one command convenes everyone. The runner
+    is already built into the starter kit's `SKILL.md`, so this is a
+    reach goal for your voices, not a build.
 4.  **Then customize** — add, swap, or invent voices. This is where it
     becomes yours.
 
@@ -86,8 +87,8 @@ persona description.
 **Orchestration is not five bots debating each other.** What's
 actually happening when you "run this through my council": one model,
 instructed to adopt each voice's grounded lens in turn, holding each
-read, then applying the Weaver's synthesis last. The `council.md`
-runner you'll build below is prose instructions to that one model —
+read, then applying the Weaver's synthesis last. The runner in
+the starter kit's `SKILL.md` is prose instructions to that one model —
 "speak as the Advocate, then the Critic, then the Beneficiary, then
 weave" — not a program calling functions or five agents messaging each
 other. See "Running It Without Claude Code" further down for the same
@@ -139,12 +140,12 @@ Not a customer persona — one real human on the other end.
 
 Start from the **[`starter-kit/`](starter-kit/)** folder. Every voice
 has its own template, already shaped, with its grounding question at
-the top: [`advocate.md`](starter-kit/advocate.md),
-[`critic.md`](starter-kit/critic.md),
-[`beneficiary.md`](starter-kit/beneficiary.md),
-[`executor.md`](starter-kit/executor.md), and
-[`long-view.md`](starter-kit/long-view.md). For a voice of your own,
-copy the blank `starter-kit/_TEMPLATE-voice.md`. Answer the grounding
+the top: [`advocate.md`](starter-kit/voices/advocate.md),
+[`critic.md`](starter-kit/voices/critic.md),
+[`beneficiary.md`](starter-kit/voices/beneficiary.md),
+[`executor.md`](starter-kit/voices/executor.md), and
+[`long-view.md`](starter-kit/voices/long-view.md). For a voice of your own,
+copy the blank `starter-kit/voices/_TEMPLATE-voice.md`. Answer the grounding
 question in writing, then fill in **"Grounded in"
 first** — a voice grounded in a real story gives sharp feedback; a
 voice grounded in "be skeptical" gives you a fortune cookie. The
@@ -170,19 +171,28 @@ One example is enough to learn the shape from — reading all five just
 means never guessing at what a voice you haven't built yet is supposed
 to sound like.
 
-**Installing in Claude Code:** each file here is the *body* of a
-skill. In your project folder create `.claude/skills/<voice-name>/`,
-save the filled-in file inside as `SKILL.md`, and make sure the
-`name:` in the frontmatter matches the folder name. Now "run this past
-my critic" fires just that voice.
+**Installing in Claude Code, once:** the council is **one skill**, and
+the starter kit is the whole folder. Copy `starter-kit/` into your
+project as `.claude/skills/council/` (the folder must be named
+`council`). Open `SKILL.md` and fill in one line, **My material lives
+in**: where your story cards, hunch, and open questions are kept. Your
+stories stay in your repo, not in the skill. Every run re-reads them, so
+a story you add next month sharpens the council next month.
 
-Then build the **Weaver** (`starter-kit/weaver.md` — mostly done; trim
-the Reads line to the voices you've built) and the **runner**
-(`starter-kit/council.md` — pre-wired for all five; delete any voice you
-haven't built). Both have worked examples too:
+Then build one voice at a time in `voices/`. Each works the moment you
+save it: "council: critic" runs just that voice. Build the **Weaver**
+(`starter-kit/weaver.md`, mostly done) after the Core Three. The runner
+(`starter-kit/SKILL.md`) is pre-wired for all five voices and skips any
+you haven't filled in yet. Its worked example is
 [`worked-example-weaver.md`](worked-examples/worked-example-weaver.md)
 and
 [`worked-example-council.md`](worked-examples/worked-example-council.md).
+
+**Changing it later is part of the design.** Sharpen a voice, re-ground
+it on a newer story, add one, or retire one by editing its file, or by
+asking Claude: "make my Critic sharper," "add a voice called Mentor."
+`SKILL.md` tells Claude how to keep its Sequence line and trigger
+description in sync.
 
 ------------------------------------------------------------------------
 
@@ -235,15 +245,15 @@ with.
 
 -   **The Executor** — the how. Ground it in the story where you
     actually shipped something under real constraints. Template:
-    [`starter-kit/executor.md`](starter-kit/executor.md). Example:
+    [`starter-kit/voices/executor.md`](starter-kit/voices/executor.md). Example:
     [`worked-example-executor.md`](worked-examples/worked-example-executor.md).
 -   **The Long View** — what does this set in motion, for you and for
     others, over the next two years? The voice most people are missing
     and don't realize it. Template:
-    [`starter-kit/long-view.md`](starter-kit/long-view.md). Example:
+    [`starter-kit/voices/long-view.md`](starter-kit/voices/long-view.md). Example:
     [`worked-example-long-view.md`](worked-examples/worked-example-long-view.md).
 
-**Build-your-own — start from `starter-kit/_TEMPLATE-voice.md`; no
+**Build-your-own — start from `starter-kit/voices/_TEMPLATE-voice.md`; no
 worked example, because this one has to come from you:**
 
 -   **First Principles** — should this exist at all? Ground it in your
@@ -270,7 +280,12 @@ never changes is a council that's stopped learning.
 
 # Running It Without Claude Code
 
-Every file here is plain markdown. In any AI assistant:
+**Claude.ai chat:** zip the `council/` folder and upload it as one skill.
+Chat can't read your repo, so paste or attach the stories your voices
+cite.
+
+**Any other assistant:** every file here is plain markdown. In any AI
+assistant:
 
 1.  Paste a filled-in voice file and your idea → that voice's read.
 2.  Repeat per voice, in separate conversations (separate matters —

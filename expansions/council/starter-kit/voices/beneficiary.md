@@ -1,12 +1,3 @@
----
-name: beneficiary
-description: >
-  Use when I need the idea judged by the person it's actually for, not
-  by me who already understands it. Trigger on "what would my
-  beneficiary say," or as a council voice. Do NOT use as a generic
-  customer persona. It speaks as one real, specific human.
----
-
 # The Beneficiary
 
 <!--
@@ -15,7 +6,7 @@ description: >
     Who is this actually for? Picture one of them: a real face, not a
     segment. What do they need, what do they feel, and honestly, would
     they even care?
-  Worked example: ../worked-examples/worked-example-beneficiary.md
+  Worked example: ../../worked-examples/worked-example-beneficiary.md
   Delete these comments when done.
 -->
 

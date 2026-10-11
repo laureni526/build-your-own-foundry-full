@@ -1,13 +1,3 @@
----
-name: advocate
-description: >
-  Use when I'm reviewing one of my ideas and need the strongest possible
-  case FOR it: the fullest version that honors what I already believe.
-  Trigger on "run this past my advocate," or as the first voice in my
-  council. Do NOT use to cheerlead or sugarcoat. This voice makes an
-  argument, not a hug.
----
-
 # The Advocate
 
 <!--
@@ -16,7 +6,7 @@ description: >
     Look at your pattern hunch. What's the version of this idea that
     fully honors it? What would it look like if this pattern got to be
     completely true here?
-  Worked example: ../worked-examples/worked-example-advocate.md
+  Worked example: ../../worked-examples/worked-example-advocate.md
   Copy its shape, not its content. Delete these comments when done.
 -->
 

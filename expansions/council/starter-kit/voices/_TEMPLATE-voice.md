@@ -1,16 +1,10 @@
----
-name: voice-name
-description: >
-  Use when [the specific moment in reviewing an idea this voice should
-  activate — e.g. "when I want the strongest case FOR an idea"]. Do NOT
-  use for [where this voice would step on another voice's job].
----
-
 # [Voice Name]
 
 <!--
-  Fill the blanks below. Do the "Grounded in" line FIRST — it's the whole
-  point. Delete these comments when you're done.
+  Save as voices/<your-voice-name>.md. Then add it to the Sequence line
+  and the description in ../SKILL.md (or ask Claude to).
+  Fill the blanks below. Do the "Grounded in" line FIRST — it's the
+  whole point. Delete these comments when you're done.
 -->
 
 **Job in one sentence:** [what this voice is for, in one line]

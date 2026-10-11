@@ -1,12 +1,3 @@
----
-name: critic
-description: >
-  Use when I need my idea stress-tested against my own most expensive
-  blind spot. Trigger on "run this past my critic," or as a council
-  voice. Do NOT use to be contrarian for its own sake or to list generic
-  risks. It aims at one specific, earned worry.
----
-
 # The Critic
 
 <!--
@@ -17,7 +8,7 @@ description: >
     Critic at THAT, not at generic risk.
   No Open Questions page yet? What's the thing you're quietly hoping
   nobody asks about? That's your open question.
-  Worked example: ../worked-examples/worked-example-critic.md
+  Worked example: ../../worked-examples/worked-example-critic.md
   Delete these comments when done.
 -->
 
